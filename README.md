@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+    <img src="public/images/nextjs-13-template-thumnail.png" alt="Logo" width="100%">
+</div>
 
-## Getting Started
+## 🔥 Next js 13 starter template
+Organized code with NextFuse. Our meticulously crafted starter template for Next.js 13, Tailwind CSS, and TypeScript ensures clean and structured code, enabling you to build scalable and maintainable web applications with utmost efficiency.
+
 
 First, run the development server:
 
