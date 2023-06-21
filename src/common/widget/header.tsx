@@ -19,10 +19,10 @@ export default function Header() {
           {/* navigation */}
           <nav className="flex">
 
-            <ul className="flex gap-5 flex-wrap items-center">
+            <ul className="flex gap-2 md:gap-5 flex-wrap items-center">
               {navData.map((e: NavDataTypes, i: number) => (
                 <li>
-                  <Link className="text-sm font-medium hover:underline" href={e.path} >
+                  <Link className="text-sm md:text-lg font-medium hover:underline" href={e.path} >
                     {e.name}
                   </Link>
                 </li>                
