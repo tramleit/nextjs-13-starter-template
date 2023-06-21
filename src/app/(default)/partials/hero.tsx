@@ -23,7 +23,7 @@ export default function Hero() {
             <div className="max-w-5xl text-center mx-auto">
 
               <h1 className="h1 font-roboto font-medium leading-[1.3] text-white/80">
-                <span className='gradient-text' >Next js 13</span> Starter kit
+                <span className='gradient-text' >Next js 13</span> Starter template
               </h1>
 
               <p className='text-sm md:text-xl opacity-75 my-6' > Organized code with NextFuse. Our meticulously crafted starter template for Next.js 13, Tailwind CSS, and TypeScript ensures clean and structured code, enabling you to build scalable and maintainable web applications with utmost efficiency. </p>
