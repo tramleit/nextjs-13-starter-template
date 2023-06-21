@@ -1,3 +1,7 @@
+export const metadata = {
+  title: 'About | Next js 13 starter template', 
+}
+
 const About = () => {
   return (
     <div className='min-h-[80vh] flex items-center justify-center' >

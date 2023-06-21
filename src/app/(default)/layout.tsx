@@ -7,6 +7,10 @@ import Footer from '@/common/widget/footer'
 
 const Sticky = require('sticky-js')
 
+
+
+
+
 export default function DefaultLayout({
   children,
 }: {

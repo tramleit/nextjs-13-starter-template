@@ -2,8 +2,7 @@ import Developer from './partials/developer'
 import Hero from './partials/hero'
 
 export const metadata = {
-  title: 'Home - JobBoard',
-  description: 'Page description',
+  title: 'Next js 13 starter template | Home', 
 }
 
 

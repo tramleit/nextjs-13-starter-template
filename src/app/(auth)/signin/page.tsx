@@ -1,6 +1,5 @@
 export const metadata = {
-  title: 'Signin - JobBoard',
-  description: 'Page description',
+  title: 'Signin | Next js 13 starter template',
 }
 
 export default function Signin() {
